@@ -1,3 +1,6 @@
 {
-  "projects": {}
+  "projects": {
+    "frontend": "git@github.com:WildCodeSchool/2022-03-remote-js-live-coding-multi-mono-repo-frontend.git",
+    "backend": "git@github.com:WildCodeSchool/2022-03-remote-js-live-coding-multi-mono-repo-backend.git"
+  }
 }
